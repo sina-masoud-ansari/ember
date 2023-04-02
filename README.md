@@ -21,7 +21,7 @@ The `world`, and `game` JSON files are unique to each game world and the `log` i
 
 ## Worlds
 
-An example (work in progress) world can be found in `worlds/the-island`. This is simple example but the ideas is to include public domain works in the future so you can play a game in the world of Sherlock Holmes for instance.
+An example (work in progress) world can be found in `worlds/the-island`. This is a simple example but the idea is to include public domain works in the future so you can play a game in the world of Sherlock Holmes for instance.
 
 ## Example
 
