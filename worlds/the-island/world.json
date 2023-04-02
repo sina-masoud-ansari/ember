@@ -1,0 +1,94 @@
+{
+    "world": {
+        "public": [
+            "A group of passengers aboard a commercial flight en route to an international destination finds themselves caught in a violent storm. The storm causes the plane to suffer catastrophic damage, and it crashes into the ocean. The survivors, a diverse mix of individuals with unique backgrounds and skills, manage to escape the wreckage and cling to makeshift rafts. After drifting for hours, they wash up on the shores of a remote, uninhabited island in the South Pacific."
+        ],
+        "private": [
+            "The island, hidden from the modern world by a combination of treacherous ocean currents and dense cloud cover, remains largely uncharted and unknown.",
+            "There are mysterious ruins deep in the islands interior, fragments of these ruins are visible not far from the coastline where the surviors wash up on the shore",
+            "The ruins are from a lost and suprisingly advanced civilization"
+        ]
+    },
+    "starting_npcs": [
+        {
+            "name": "Isabella Martinez",
+            "personality_traits": [
+                "Extroverted",
+                "Agreeable",
+                "Careless",
+                "Open-minded",
+                "Emotional"
+            ],
+            "skills_and_abilities": {
+                "physical_strength": "High",
+                "agility": "High",
+                "intelligence": "Moderate",
+                "perception": "Moderate",
+                "charisma": "Very High"
+            },
+            "moral_alignment": [
+                "good",
+                "chaotic",
+                "altruistic"
+            ],
+            "background_and_profession": {
+                "background": "Former Soldier",
+                "profession": "Ship Captain"
+            },
+            "motivations_and_goals": [
+                "Want's to live a quiet life"
+            ],
+            "interests_and_hobbies": [
+                "Sailing",
+                "Playing the guitar"
+            ],
+            "fears_and_weaknesses": [
+                "Fear of confinement (claustrophobia)",
+                "Difficulty with long-term planning",
+                "Can be impulsive at times"
+            ]
+        },
+        {
+            "name": "Dr. Marcus Caldwell",
+            "personality_traits": [
+                "Introverted",
+                "Disagreeable",
+                "Conscientious",
+                "Closed-minded",
+                "Stubborn",
+                "Logical"
+            ],
+            "skills_and_abilities": {
+                "physical_strength": "Low",
+                "agility": "Moderate",
+                "intelligence": "Very High",
+                "perception": "High",
+                "charisma": "Low"
+            },
+            "moral_alignment": [
+                "neutral",
+                "lawful",
+                "selfish"
+            ],
+            "background_and_profession": {
+                "background": "Scientist",
+                "profession": "Botanist"
+            },
+            "motivations_and_goals": [
+                "Scientific discovery",
+                "Gaining prestige and noteriety"
+            ],
+            "interests_and_hobbies": [
+                "Collecting rare plant specimens",
+                "Studying ancient texts"
+            ],
+            "fears_and_weaknesses": [
+                "Struggles with social interactions",
+                "Fear of spiders (Arachnaphobia)"
+            ]
+        }        
+    ],
+    "other_npcs": [
+
+    ]
+}
