@@ -26,7 +26,8 @@
             "name", "age", "sex", "background", "starting items", "strength (low, med, high), fitness (low, med, high)"
         ],
         "starting_items": [
-            "lighter", "deck of playing cards", "500ml water bottle", "knife with 7cm blade", "a small first aid kit", "a compass"
+            "lighter", "deck of playing cards", "500ml water bottle", "knife with 7cm blade", "small first aid kit", "compass",
+            "pencil and small notebook"
         ],
         "stats": {
             "health": "healthy"
